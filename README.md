@@ -1,2 +1,2 @@
-# Integraci-n-continua
+# Integracion-continua
 Repositorio grupal para la configuracion de servidores web y base de datos en contenedores docker
