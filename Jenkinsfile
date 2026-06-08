@@ -4,8 +4,9 @@ pipeline {
     stages {
 
         stage('Clonar Repositorio') {
-            steps {
-                git 'https://github.com/erikamunevar/Integracion-continua.git'
+    steps {
+        git branch: 'main',
+            url: 'https://github.com/erikamunevar/Integracion-continua.git'
             }
         }
 
