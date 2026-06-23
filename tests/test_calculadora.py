@@ -6,4 +6,4 @@ def test_suma():
 
 
 def test_resta():
-    assert restar(5,3) == 10
+    assert restar(5,3) == 2
